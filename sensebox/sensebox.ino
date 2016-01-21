@@ -16,14 +16,14 @@ Email: support@sensebox.de
 #include <Ethernet.h>
 
 //SenseBox ID
-#define SENSEBOX_ID "56a0dd472cb6e1e41040a640"
+#define SENSEBOX_ID "56a0de932cb6e1e41040a68b"
 
 //Sensor IDs
-#define TEMPSENSOR_ID "56a0dd472cb6e1e41040a646"
-#define HUMISENSOR_ID "56a0dd472cb6e1e41040a645"
-#define PRESSURESENSOR_ID "56a0dd472cb6e1e41040a644"
-#define LUXSENSOR_ID "56a0dd472cb6e1e41040a643"
-#define UVSENSOR_ID "56a0dd472cb6e1e41040a642"
+#define TEMPSENSOR_ID "56a0de932cb6e1e41040a691"
+#define HUMISENSOR_ID "56a0de932cb6e1e41040a690"
+#define PRESSURESENSOR_ID "56a0de932cb6e1e41040a68f"
+#define LUXSENSOR_ID "56a0de932cb6e1e41040a68e"
+#define UVSENSOR_ID "56a0de932cb6e1e41040a68d"
 
 //Configure ethernet connection
 IPAddress myIp(192, 168, 0, 42);
